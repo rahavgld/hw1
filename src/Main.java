@@ -1,9 +1,9 @@
 package ru.skypro;
 
-public class Main {
+public class Main
 
-public static void main (String()args)
-}
+public static void main(String()args)
+
 Task 1
 int pig=2;
 byte cat=5;
@@ -11,7 +11,7 @@ short cow=10;
 long bear=100L;
 flot flourWeight=1.98f;
 double saltWeight=3.5678;
-boolean pigIsAgult=pig>5;
+boolean pigIsAgult=pig>5
 char d='!*';
 
 Task 2
